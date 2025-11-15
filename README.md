@@ -43,9 +43,11 @@ Running the Application:
 
 Navigate to the project directory.
 
-Compile and run the program:
+Open your terminal and move into the root directory of the project (the folder that contains the src folder)
 
-javac src/main/java/main/java/*.java -d bin
+Compile and run the program using these commands:
+
+javac src/main/java/*.java -d bin
 java -cp bin main.java.Main
 
 Using the Application:
